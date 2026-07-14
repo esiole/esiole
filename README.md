@@ -5,7 +5,7 @@ Full-Stack .NET Developer - C#/ASP.NET Core on the backend, React/TypeScript on 
 
 - 🏗️ I like owning features end to end and fixing root causes, not symptoms
 - 🌍 **Open to remote roles and relocation**
-- 📫 [LinkedIn](https://linkedin.com/in/oleg-esikov) · esikov.oleg72@gmail.com
+- 📫 [LinkedIn](https://linkedin.com/in/oleg-esikov) · [Email](mailto:esikov.oleg72@gmail.com)
 
 #### 🧰 Tech
 
